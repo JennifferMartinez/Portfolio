@@ -1,0 +1,46 @@
+.followme {
+    background-color: #2b5a56; /* gris oscuro */
+    color: white;
+    padding: 3rem 1.5rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    font-size: 1.3rem;
+    font-weight: 400;
+    margin-bottom: 3rem;
+    color: #ffff;
+    font-family: 'Nothing You Could Do', cursive;
+    margin-bottom: 0.75rem;
+    letter-spacing: 0.5px;
+    position: left;
+  }
+  
+  .followme h3 {
+    font-size: 1.5rem;
+    font-weight: 700;
+    margin-bottom: 1rem;
+  }
+  
+  .social-icons {
+    display: flex;
+    gap: 1.5rem;
+    margin-bottom: 1rem;
+  }
+  
+  .social-icons a {
+    color: white;
+    font-size: 1.5rem;
+    transition: color 0.3s, transform 0.3s;
+  }
+  
+  .social-icons a:hover {
+    color: #206369; /* azul */
+    transform: scale(1.2);
+  }
+  
+  .followme p {
+    font-size: 0.875rem;
+    color: #cbd5e1; /* gris claro */
+  }
+  

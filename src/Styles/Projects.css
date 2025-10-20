@@ -1,0 +1,81 @@
+.projects-section {
+    min-height: 80vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 5rem 1.5rem;
+    background-color: #0E3336;
+    text-align: center;
+  }
+  
+  .projects-section h2 {
+    font-size: 1.3rem;
+    font-weight: 400;
+    margin-bottom: 3rem;
+    color: #ffff;
+    font-family: 'Nothing You Could Do', cursive;
+    margin-bottom: 0.75rem;
+    letter-spacing: 0.5px;
+    position: left;
+  }
+  
+  .project-card {
+    width: 100%;
+    max-width: 1300px;
+    background-color: #2b5a56;
+    border-radius: 1rem;
+    padding: 2rem;
+    margin-bottom: 2rem;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    transition: transform 0.3s, box-shadow 0.3s;
+    text-align: left;
+  }
+  
+  .project-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 20px rgba(0,0,0,0.15);
+  }
+  
+  .project-card h3 {
+    font-size: 1.5rem;
+    font-weight: 600;
+    margin-bottom: 0.5rem;
+    color: #ffff;
+  }
+  
+  .project-card p {
+    font-size: 1rem;
+    color: #ffff;
+    margin: 0.25rem 0;
+  }
+
+
+    .project-subtitle {
+        font-family: 'Nothing You Could Do', cursive;
+        font-size: 1.3rem;
+        font-weight: 400;
+        color: #ffff; /* verde claro para contraste sobre fondo oscuro */
+        margin-bottom: 0.75rem;
+        letter-spacing: 0.5px;
+      }
+
+      .project-subtitle2 {
+        font-family: 'Nothing You Could Do', cursive;
+        font-size: 1.3rem;
+        font-weight: 400;
+        color: #ffff; /* verde claro para contraste sobre fondo oscuro */
+        margin-bottom: 0.75rem;
+        letter-spacing: 0.5px;
+      }
+      .projects-section1{
+        font-family: 'Nothing You Could Do', cursive;
+        font-size: 1.3rem;
+        font-weight: 400;
+        color: #ffff; /* verde claro para contraste sobre fondo oscuro */
+        margin-bottom: 0.75rem;
+        letter-spacing: 0.5px;
+      }
+      
+
+  
+  

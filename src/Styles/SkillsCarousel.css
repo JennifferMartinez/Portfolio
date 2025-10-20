@@ -1,0 +1,52 @@
+.skills-carousel {
+    display: flex;
+    gap: 2rem; 
+    overflow-x: auto;
+    
+  }
+  .skills-carousel section{
+    background-color: #0E3336;
+  
+  }
+  
+  .skills-carousel-item {
+    flex-shrink: 0;
+    width: 15rem;
+    height: 5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 1rem;
+    font-weight: 600;
+    color: "#ffff";
+    transition: transform 0.3s ease;
+    
+  }
+  
+  .skills-carousel-item:hover {
+    transform: scale(1.05);
+  }
+  
+  /* Ocultar scrollbar */
+  .skills-carousel::-webkit-scrollbar {
+    display: none;
+  }
+  .skills-carousel {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+    
+  }
+
+  .carousel-section{
+    min-height: 15vh;
+    font-size: 1.3rem;
+    font-weight: 400;
+    margin-bottom: 3rem;
+    color: #ffff;
+    font-family: 'Nothing You Could Do', cursive;
+    margin-bottom: 0.75rem;
+    letter-spacing: 0.5px;
+    text-align: justify;
+    
+  }
+  

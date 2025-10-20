@@ -1,0 +1,66 @@
+.certifications-section {
+    min-height: 5vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 5rem 1.5rem;
+    background-color: #0E3336; /* gris claro */
+    text-align: center;
+  }
+  
+  .certifications-section h2 {
+    font-size: 1.3rem;
+    font-weight: 400;
+    margin-bottom: 3rem;
+    color: #ffff;
+    font-family: 'Nothing You Could Do', cursive;
+    margin-bottom: 0.75rem;
+    letter-spacing: 0.5px;
+    position: left;
+  }
+  
+  .certifications-carousel {
+    display: flex;
+    gap: 1.5rem;
+    overflow-x: auto;
+    scroll-behavior: smooth;
+  }
+  
+  .certifications-carousel::-webkit-scrollbar {
+    display: none;
+  }
+  
+  .certifications-carousel {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+  
+  .certifications-card {
+    flex-shrink: 0;
+    width: 410px;
+    background-color: #2b5a56;
+    border-radius: 1rem;
+    padding: 1.5rem;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    transition: transform 0.3s, box-shadow 0.3s;
+    text-align: left;
+  }
+  
+  .certifications-card:hover {
+    transform: scale(1.05);
+    box-shadow: 0 8px 20px rgba(0,0,0,0.15);
+  }
+  
+  .certifications-card h3 {
+    font-size: 1.25rem;
+    font-weight: 600;
+    margin-bottom: 0.5rem;
+    color: #ffff;
+  }
+  
+  .certifications-card p {
+    font-size: 0.875rem;
+    color: #ffff;
+    margin: 0.25rem 0;
+  }
+  

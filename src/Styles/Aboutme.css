@@ -1,0 +1,42 @@
+.about-section {
+    min-height: 50vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 5rem 1.5rem;
+    background-color: #0E3336;
+    text-align: center;
+}
+
+.aboutme-card {
+    width: 100%;
+    max-width: 1300px;
+    background-color: #2b5a56;
+    border-radius: 1rem;
+    padding: 2rem;
+    margin-bottom: 2rem;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s, box-shadow 0.3s;
+    text-align: left;
+}
+
+.image-container {
+    margin-top: 0rem;
+    /* controla qué tan abajo va */
+    z-index: 2;
+    position: center;
+
+
+}
+
+.about-section {
+    text-align: left;
+    color: #ffff;
+    font-family: 'Nothing You Could Do', cursive;
+    font-size: 1.3rem;
+    font-weight: 400;
+    margin-bottom: 0.75rem;
+    letter-spacing: 0.5px;
+    position: left;
+}
