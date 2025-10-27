@@ -3,7 +3,7 @@ import "../Styles/Home.css";
 import myImage from "../Assets/myImage.png";
 import GraDesi from "../Assets/GraDesi.png";
 import phicgner from "../Assets/phicgner.png";
-
+import Down from "../Assets/Down.png"
 
 const Home = () => {
   const section = document.getElementById("projects");
@@ -21,9 +21,9 @@ const Home = () => {
       <div className="home-content">
         <div className="image-container">
           <img src={myImage} alt="Jenniffer" className="overlay-image" />
-            <img src="../Assets/GraDesi.png" alt="imagen de la izquierda" className="img-left" />
-            <img src="../Assets/phicgner.png" alt="imagen de la derecha" className="img-right" />
-    
+          <img src={GraDesi} alt="imagen de la izquierda" className="img-left" />
+          <img src={phicgner} alt="imagen de la derecha" className="img-right" />
+          <img src={Down} alt="texto ab" className="img-down" />
 
         </div>
 
