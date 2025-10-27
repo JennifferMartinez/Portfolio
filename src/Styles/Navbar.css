@@ -12,7 +12,7 @@
   .navbar h1 {
     font-weight: 700;
     font-size: 1.5rem;
-    color: #ffff; /* azul */
+    color: #ffff; 
   }
   
   .navbar .nav-links button {
@@ -22,6 +22,6 @@
   }
   
   .navbar .nav-links button:hover {
-    color: #2b5a56; /* azul al pasar mouse */
+    color: #2b5a56; 
   }
   

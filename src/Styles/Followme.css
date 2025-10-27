@@ -1,5 +1,5 @@
 .followme {
-    background-color: #2b5a56; /* gris oscuro */
+    background-color: #2b5a56; 
     color: white;
     padding: 3rem 1.5rem;
     display: flex;
@@ -35,12 +35,12 @@
   }
   
   .social-icons a:hover {
-    color: #206369; /* azul */
+    color: #969797; 
     transform: scale(1.2);
   }
   
   .followme p {
     font-size: 0.875rem;
-    color: #cbd5e1; /* gris claro */
+    color: #cbd5e1; 
   }
   

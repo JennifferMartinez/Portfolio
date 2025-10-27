@@ -12,7 +12,7 @@ const Navbar = () => {
   return (
     <nav className="navbar">
       <div className="max-w-6xl mx-auto flex justify-between items-center px-6 py-4">
-        <h3>Jenniffer Martinez</h3>
+        <h1><button onClick={()=> scrollTo("home")}>Jenniffer Martinez</button></h1>
         <div className="flex gap-6 nav-links">
           <button onClick={() => scrollTo("home")}>Home</button>
           <button onClick={() => scrollTo("aboutme")}>About me</button>

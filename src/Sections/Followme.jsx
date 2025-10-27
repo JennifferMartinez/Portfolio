@@ -24,7 +24,7 @@ const Followme = () => {
           <FaInstagram />
         </a>
       </div>
-      <p>&copy; {new Date().getFullYear()} Jenniffer. Todos los derechos reservados.</p>
+      <p>&copy; {new Date().getFullYear()} Jenniffer Martinez. Copyright.</p>
     </footer>
   );
 };
