@@ -37,6 +37,11 @@
     
   }
 
+  .h2{
+    position: left;
+
+  }
+
   .carousel-section{
     min-height: 15vh;
     font-size: 1.3rem;
@@ -46,7 +51,7 @@
     font-family: 'Nothing You Could Do', cursive;
     margin-bottom: 0.75rem;
     letter-spacing: 0.5px;
-    text-align: justify;
+    
     
   }
   

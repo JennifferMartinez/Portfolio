@@ -17,7 +17,7 @@ const skills = [
 const SkillsCarousel = () => {
   return (
     <section id="skillscarousel" className="carousel-section">
-        <h2>My skills</h2>
+        
       <div className="skills-carousel">
         
         {skills.map((skill, index) => (

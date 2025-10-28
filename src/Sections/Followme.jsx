@@ -8,19 +8,19 @@ const Followme = () => {
     <footer className="followme" section id="followme">
       <h3>Follow me</h3>
       <div className="social-icons">
-        <a href="https://github.com/tuusuario" target="_blank" rel="noopener noreferrer">
+        <a href="https://github.com/JennifferMartinez" target="_blank" rel="noopener noreferrer">
           <FaGithub />
         </a>
-        <a href="https://linkedin.com/in/tuusuario" target="_blank" rel="noopener noreferrer">
+        <a href="https://www.linkedin.com/in/jenniffer-martinez-27253a366?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" rel="noopener noreferrer">
           <FaLinkedin />
         </a>
-        <a href="https://facebook.com/tuusuario" target="_blank" rel="noopener noreferrer">
+        <a href="https://www.facebook.com/share/1B9ynTvf7R/" target="_blank" rel="noopener noreferrer">
           <FaFacebook />
         </a>
-        <a href="https://gmail.com/tuusuario" target="_blank" rel="noopener noreferrer">
+        <a href="https://gmail.com/jenniffermartinezcastro04@gmail.com" target="_blank" rel="noopener noreferrer">
           <SiGmail/>
         </a>
-        <a href="https://www.instragram.com/jennda_m?igsh=MXgwOHJpOXRyaDQweQ==" target="_blank" rel="noopener noreferrer">
+        <a href="https://www.instagram.com/jennda_m?igsh=MXgwOHJpOXRyaDQweQ==" target="_blank" rel="noopener noreferrer">
           <FaInstagram />
         </a>
       </div>
