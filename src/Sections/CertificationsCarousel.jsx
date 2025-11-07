@@ -6,19 +6,16 @@ const certifications = [
     title: "Microsoft Office Specialist: Excel Associate (Microsoft 365 Apps)",
     issuer: "Certiport",
     date: "2024",
-    link: "https://www.freecodecamp.org/certification",
   },
   {
     title: "IT Specialist-Python",
     issuer: "Certiport",
     date: "2025",
-    link: "https://www.coursera.org/certification",
   },
   {
-    title: "TOEC (Test of English for International Communication)",
+    title: "TOEIC (Test of English for International Communication)",
     issuer: "",
     date: "2025",
-    link: "https://www.udemy.com/certificate",
   },
   
   

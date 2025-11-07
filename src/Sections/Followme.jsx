@@ -17,9 +17,6 @@ const Followme = () => {
         <a href="https://www.facebook.com/share/1B9ynTvf7R/" target="_blank" rel="noopener noreferrer">
           <FaFacebook />
         </a>
-        <a href="https://gmail.com/jenniffermartinezcastro04@gmail.com" target="_blank" rel="noopener noreferrer">
-          <SiGmail/>
-        </a>
         <a href="https://www.instagram.com/jennda_m?igsh=MXgwOHJpOXRyaDQweQ==" target="_blank" rel="noopener noreferrer">
           <FaInstagram />
         </a>
